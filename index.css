@@ -1,0 +1,23 @@
+.line-1{
+    padding: 5px;
+}
+.line-2{
+    padding: 5px;
+}
+
+.btn-group{
+    
+    padding: 5px;
+}
+.contain{
+    
+    padding: 5px;
+}
+.newMemo{
+    color: green;
+    padding: 5px;
+}
+.deleteMemo{
+    color: blue;
+    padding: 5px;
+}
