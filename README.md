@@ -1,6 +1,6 @@
 # Todo List
 
-  font-family - Poppin
-  fontawesome
-  layout
-  localStorage 
+*  font-family - Poppin
+*  fontawesome
+*  layout
+*  localStorage 
